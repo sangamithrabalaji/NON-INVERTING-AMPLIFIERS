@@ -24,7 +24,7 @@ The circuit closed-loop voltage gain is ACL = 1 + ( RF / R1)
                    Choose  Rf = 10kΩ, R1=10kΩ 
       
 ## CIRCUIT DIAGRAM:
-## NON-INVERTING AMPLIFIER:
+## NON-INVERTING AMPLIFIER: 
 <img width="705" height="397" alt="image" src="https://github.com/user-attachments/assets/7bd1fd74-9b03-4fe8-acab-1b44923f0a48" />
 
 ## PROCEDURE:
